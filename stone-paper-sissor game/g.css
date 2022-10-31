@@ -1,0 +1,36 @@
+#head{
+    text-align: center;
+    text-underline-position: below;
+}
+#play{
+    color: blue;
+}
+#com{
+    color:red;
+}
+#photo{
+    float: left;
+    width: 25%;
+    padding: 10px;
+}
+#rock{
+    height: 20;
+    width: 20;
+}
+.image123{
+    float:left;
+    }
+    .imageContainer {
+        float: left;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 20;
+    }
+    
+    #hi{
+        text-align: center;
+    }
+.bt{
+    font-size: 20px;
+    text-align: center;
+}
